@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 class Assessment1Test {
 
 	@Test
-	void test() {
+	void testIsPerfectNumberForSuccess() {
 		fail("Not yet implemented");
 	}
 
